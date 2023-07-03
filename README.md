@@ -2,7 +2,8 @@
 
 Instalasi Manual CI4 dengan mendownload di official Website
 
-#TECHSTACK
+# TECHSTACK
+
 [HTML, CSS, JS, CI4]
 90% CSS Murni dengan tambahan swiperjs untuk bagian slider testimony
 DomainChecker API untuk membantu men-check domain -> consume api dengan metode fetch javascript
